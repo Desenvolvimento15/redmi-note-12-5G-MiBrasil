@@ -37,7 +37,7 @@ body {
   font-weight: 800;
   font-family: "Camphor Pro", sans-serif;
   position: relative;
-  margin-bottom: 1rem;
+  margin-bottom: 0.3rem;
 }
 
 .p-center {
@@ -67,7 +67,7 @@ body {
 .icons-title {
   font-size: 1.5rem;
   text-align: center;
-  font-weight: 700;
+  font-weight: 800;
   font-family: "Camphor Pro", sans-serif;
   position: relative;
 }
