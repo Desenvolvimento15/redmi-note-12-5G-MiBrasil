@@ -117,7 +117,7 @@ body {
 
   .subtitle {
     text-align: center;
-    font-size: 1.3rem;
+    font-size: 1.25rem;
     font-weight: 800;
     font-family: "Camphor Pro", sans-serif;
     position: relative;
@@ -125,7 +125,7 @@ body {
   }
 
   .p-center {
-    font-size: 1.23rem;
+    font-size: 1.2rem;
     text-align: center;
     font-weight: 400;
     font-family: "Camphor Pro", sans-serif;
@@ -133,7 +133,7 @@ body {
   }
 
   .p-center-text {
-    font-size: 1.1rem;
+    font-size: 1rem;
     text-align: center;
     padding: 20px;
     font-family: "Camphor Pro", sans-serif;
