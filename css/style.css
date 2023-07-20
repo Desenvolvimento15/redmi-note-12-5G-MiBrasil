@@ -136,6 +136,14 @@ body {
     position: relative;
   }
 
+  .p-center-text {
+    font-size: 1.1rem;
+    text-align: center;
+    padding: 20px;
+    font-family: "Camphor Pro", sans-serif;
+    position: relative;
+  }
+
   .icons-text {
     font-size: 1.2rem;
     text-align: center;
