@@ -33,15 +33,23 @@ body {
 .subtitle {
   text-transform: uppercase;
   text-align: center;
-  font-size: 2.5rem;
-  font-weight: bold;
+  font-size: 2rem;
+  font-weight: 800;
   font-family: "Camphor Pro", sans-serif;
   position: relative;
   margin-bottom: 1rem;
 }
 
 .p-center {
-  font-size: 2rem;
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 20px;
+  font-family: "Camphor Pro", sans-serif;
+  position: relative;
+}
+
+.p-center-text {
+  font-size: 1.31rem;
   text-align: center;
   padding: 20px;
   font-family: "Camphor Pro", sans-serif;
@@ -113,22 +121,23 @@ body {
   .subtitle {
     text-transform: uppercase;
     text-align: center;
-    font-size: 1.9rem;
-    font-weight: bold;
+    font-size: 1.3rem;
+    font-weight: 800;
     font-family: "Camphor Pro", sans-serif;
     position: relative;
     margin-bottom: 1rem;
   }
 
   .p-center {
-    font-size: 1.56rem;
+    font-size: 1.2rem;
     text-align: center;
+    font-weight: 400;
     font-family: "Camphor Pro", sans-serif;
     position: relative;
   }
 
   .icons-text {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     text-align: center;
     font-family: "Camphor Pro", sans-serif;
     position: relative;
@@ -136,9 +145,9 @@ body {
   }
 
   .icons-title {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     text-align: center;
-    font-weight: 700;
+    font-weight: 800;
     font-family: "Camphor Pro", sans-serif;
     position: relative;
   }
