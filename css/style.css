@@ -115,21 +115,21 @@ body {
     font-family: "Camphor Pro", sans-serif;
     position: relative;
     padding: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
   }
 
   .subtitle {
     text-transform: uppercase;
     text-align: center;
-    font-size: 1.3rem;
+    font-size: 1.12rem;
     font-weight: 800;
     font-family: "Camphor Pro", sans-serif;
     position: relative;
-    margin-bottom: 1rem;
+    margin-bottom: 0.2rem;
   }
 
   .p-center {
-    font-size: 1.2rem;
+    font-size: 1.23rem;
     text-align: center;
     font-weight: 400;
     font-family: "Camphor Pro", sans-serif;
