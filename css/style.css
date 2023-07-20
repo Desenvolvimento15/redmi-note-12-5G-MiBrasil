@@ -79,11 +79,11 @@ body {
 }
 
 .boxcolor {
-  background-color: #000000;
+  background-color: #070707;
 }
 
 .boxcolor2 {
-  background-color: #ffff;
+  background-color: #f9f9f9;
 }
 
 .boxcolor3 {
@@ -92,6 +92,10 @@ body {
 
 .boxcolor4 {
   background-color: #edfcf7;
+}
+
+.boxcolor5 {
+  background-color: #060606;
 }
 
 /***************************grid*************************************/
